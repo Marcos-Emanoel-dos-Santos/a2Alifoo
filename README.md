@@ -1,2 +1,3 @@
 # GDA repo local
-## COMO MEXE NO VIM AAAAAAA 
+## Pra sair do vim, digite :q
+
